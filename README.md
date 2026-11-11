@@ -44,8 +44,6 @@ My portfolio brings together selected projects, technical experience, and profes
 
 ### Connect
 
-[Portfolio](https://personal-portfolio-lytech22.vercel.app) · [LinkedIn](https://www.linkedin.com/in/leul-yitbarek-b1b857314) · [Email](mailto:leulyitbarek4149@gmail.com)
+[Portfolio](https://personal-portfolio-lytech22.vercel.app) · [LinkedIn](https://www.linkedin.com/in/leul-yitbarek-b1b857314) · [Send an Email via Gmail](https://mail.google.com/mail/?view=cm&fs=1&to=leulyitbarek4149%40gmail.com)
 
----
-
-*Some of my work remains in private repositories while projects are being developed or involve internal systems.*
+**Email:** leulyitbarek4149@gmail.com
