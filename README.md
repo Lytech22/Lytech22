@@ -1,16 +1,51 @@
-## Hi there 👋
+# Leul Yitbarek
 
-<!--
-**Lytech22/Lytech22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Full-Stack Developer · Addis Ababa, Ethiopia**
 
-Here are some ideas to get you started:
+I build web applications around real workflows, from operational dashboards to systems for managing people, access, and everyday processes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My work focuses on Laravel, React, TypeScript, and relational databases. I enjoy understanding how a system will actually be used before deciding how to build it.
+
+### Selected work
+
+**Modern Gym OS**  
+A gym management system focused on memberships, attendance, staff access, and day-to-day operations.  
+*Personal project · In development · Private repository*
+
+**Smart Apartment Parking System**  
+A residential parking platform covering parking availability, vehicle management, visitor access, and reservations.  
+*Personal project · In development · Private repository*
+
+**Expense Tracker**  
+A collaborative application for recording spending and organizing personal financial activity.  
+*Collaboration · In development*
+
+**Mesob Performance Hub**  
+Contributed to QA and full-stack development of a contact-center performance management platform during my internship, working with role-based workflows, KPI tracking, quality evaluation, and operational reporting.  
+*Internship project · Private codebase*
+
+### Technologies
+
+**Frontend:** React, Next.js, TypeScript, JavaScript, Tailwind CSS
+
+**Backend:** Laravel, PHP, Inertia.js, REST APIs
+
+**Databases:** PostgreSQL, MySQL
+
+**Tools:** Git, GitHub, GitHub Actions, VS Code, Vite
+
+### Public project
+
+**[Personal Portfolio](https://github.com/Lytech22/Personal-Portfolio)**
+
+My portfolio brings together selected projects, technical experience, and professional background.
+
+[Visit the live website](https://personal-portfolio-lytech22.vercel.app)
+
+### Connect
+
+[Portfolio](https://personal-portfolio-lytech22.vercel.app) · [LinkedIn](https://www.linkedin.com/in/leul-yitbarek-b1b857314) · [Email](mailto:leulyitbarek4149@gmail.com)
+
+---
+
+*Some of my work remains in private repositories while projects are being developed or involve internal systems.*
